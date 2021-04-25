@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/voice/static/css/main.c674c04a.chunk.css",
+    "main.js": "/voice/static/js/main.92bea09b.chunk.js",
+    "main.js.map": "/voice/static/js/main.92bea09b.chunk.js.map",
+    "runtime-main.js": "/voice/static/js/runtime-main.12b73a15.js",
+    "runtime-main.js.map": "/voice/static/js/runtime-main.12b73a15.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/voice/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3dad3031.chunk.js": "/voice/static/js/2.3dad3031.chunk.js",
+    "static/js/2.3dad3031.chunk.js.map": "/voice/static/js/2.3dad3031.chunk.js.map",
+    "static/js/3.b4ac915c.chunk.js": "/voice/static/js/3.b4ac915c.chunk.js",
+    "static/js/3.b4ac915c.chunk.js.map": "/voice/static/js/3.b4ac915c.chunk.js.map",
+    "index.html": "/voice/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/voice/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.c674c04a.chunk.css.map": "/voice/static/css/main.c674c04a.chunk.css.map",
+    "static/js/2.3dad3031.chunk.js.LICENSE.txt": "/voice/static/js/2.3dad3031.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12b73a15.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3dad3031.chunk.js",
+    "static/css/main.c674c04a.chunk.css",
+    "static/js/main.92bea09b.chunk.js"
+  ]
+}
